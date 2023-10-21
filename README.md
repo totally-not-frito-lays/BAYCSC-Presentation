@@ -8,3 +8,6 @@ computer science education. This repo contains the slide deck and script used fo
 I used the [obsidian slide tool](https://github.com/MSzturc/obsidian-advanced-slides) to build and export this presentation.
 
 ![Opening Slide Title](image.png)
+
+---
+[Live Presentation Link](https://totally-not-frito-lays.github.io/BAYCSC-self_presentation/#/)
