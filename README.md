@@ -1,1 +1,0 @@
-# BAYCSC-self_presentation
