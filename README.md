@@ -10,4 +10,5 @@ I used the [obsidian slide tool](https://github.com/MSzturc/obsidian-advanced-sl
 ![Opening Slide Title](image.png)
 
 ---
-[Live Presentation Link](https://totally-not-frito-lays.github.io/BAYCSC-self_presentation/#/)
+- [Live Presentation Link](https://totally-not-frito-lays.github.io/BAYCSC-Presentation/#/)
+- [LinkedIn](https://www.linkedin.com/in/rlay/)
